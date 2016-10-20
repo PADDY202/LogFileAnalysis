@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 class Log:
     'Log file, its components and actions'
     def __init__(self, fname):
